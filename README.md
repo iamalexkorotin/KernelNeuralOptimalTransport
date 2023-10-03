@@ -5,6 +5,9 @@ The repository contains reproducible `PyTorch` source code for computing **optim
 
 <p align="center"><img src="pics/stochastic_OT_map_v2.png" width="400" /></p>
 
+## Presentations
+- [Short Talk](https://iclr.cc/virtual/2023/poster/11992) by Daniil Selikhanovych at [ICLR 2023](https://iclr.cc/Conferences/2023) (May 2023, EN)
+
 ## Seminars and Materials
 - Seminar and solutions on NOT with **weak** costs (TO DO);
 - Vector \*.svg [sources](https://github.com/iamalexkorotin/KernelNeuralOptimalTransport/blob/main/pics/KNOT_figures.svg) of the figures in the paper (use [inkscape](https://inkscape.org/) to edit);
